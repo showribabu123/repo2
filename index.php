@@ -1,5 +1,5 @@
 <?php
-echo "welcome to the azure training"
+echo "Welcome To The Azure Training";
 echo "<br>";
 phpinfo();
 ?>
